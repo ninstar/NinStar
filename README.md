@@ -12,5 +12,5 @@ You can find more about me and my other projects on my blog ([Nin★Blog](https:
 ___
 <img alt="app" src="https://cdn.discordapp.com/emojis/688924803583049742.png" width="16"> Suggestions? Submit it here: https://forms.gle/SztU5GdQEgwx45GX8  
 <img alt="sup" src="https://cdn.discordapp.com/emojis/688924804795203585.png" width="16"> Want to support my projects?  
-• <img alt="sup" src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/5ca5bf1dff3c03fbf7cc9b3c_Kofi_logo_RGB_rounded.png" width="16"> **Ko-fi** ↷ <https://ko-fi.com/ninstar>  
-• <img alt="sup" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/patreon_logo_icon_147253.png" width="16"> **Patreon** ↷ <https://patreon.com/ninstar>
+• <img alt="sup" src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/5ca5bf1dff3c03fbf7cc9b3c_Kofi_logo_RGB_rounded.png" width="16"> **Ko-fi**: <https://ko-fi.com/ninstar>  
+• <img alt="sup" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/patreon_logo_icon_147253.png" width="16"> **Patreon**: <https://patreon.com/ninstar>

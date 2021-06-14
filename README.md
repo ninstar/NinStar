@@ -6,7 +6,7 @@ I'm a graphic designer, pixel artist and programmer mainly experienced in game d
 - <img alt="ICO" src="https://i.imgur.com/TnFhaFd.png" width="16"> **[UniMaker](https://github.com/ninstar/UniMaker)** - *An easy-to-use level design tool.*
 - <img alt="ICO" src="https://i.imgur.com/f6WRKFL.png" width="16"> **[Ninty Launcher](https://github.com/ninstar/Ninty-Launcher)** - *Nintendo Switch-styled launcher.*
 - <img alt="ICO" src="https://i.imgur.com/fyDN9sd.png" width="16"> **[Rich Presence U](https://github.com/ninstar/Rich-Presence-U)** - *Display your Nintendo games on Discord.*
-- <img alt="ICO" src="https://i.imgur.com/yaf2SCM.png" width="16"> **[yyProjects](https://github.com/ninstar/yyProjects)** - *Collection of utilities, extensions and projects for GMS.*
+- <img alt="ICO" src="https://i.imgur.com/yaf2SCM.png" width="16"> **[yyProjects](https://github.com/ninstar/yyProjects)** - *A collection of extensions, utilities and projects for GMS.*
 
 You can find more about me and my other projects on <img alt="ICO" src="https://i.imgur.com/iwt7xWP.png" height="16"> [Nin★Blog](https://ninstars.blogspot.com/) and <img alt="ICO" src="https://i.imgur.com/QQrn6ee.png" width="16"> [Nin★Server](https://invite.gg/ninstar).
 ___

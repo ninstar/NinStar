@@ -12,5 +12,5 @@ You can find more about me and my other projects on <img alt="ICO" src="https://
 ___
 interested in supporting me:
 
-- <img alt="ICO" src="https://i.imgur.com/372bEWf.png" width="16"> **Ko-fi** • <https://ko-fi.com/ninstar>  
-- <img alt="ICO" src="https://i.imgur.com/K7BG4X0.png" width="16"> **Patreon** • <https://patreon.com/ninstar>
+- <img alt="ICO" src="https://i.imgur.com/K7BG4X0.png" width="16"> **Ko-fi** • <https://ko-fi.com/ninstar>  
+- <img alt="ICO" src="https://i.imgur.com/372bEWf.png" width="16"> **Patreon** • <https://patreon.com/ninstar>

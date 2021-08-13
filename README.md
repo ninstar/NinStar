@@ -10,7 +10,6 @@ I'm a graphic designer, pixel artist and programmer mainly experienced in game d
 
 You can find more about me and my other projects on <img alt="ICO" src="https://i.imgur.com/iwt7xWP.png" height="16"> [Nin★Blog](https://ninstars.blogspot.com/) and <img alt="ICO" src="https://i.imgur.com/QQrn6ee.png" width="16"> [Nin★Server](https://invite.gg/ninstar).
 ___
-interested in supporting me:
-
+Interested in supporting me?
 - <img alt="ICO" src="https://i.imgur.com/K7BG4X0.png" width="16"> **Ko-fi** • <https://ko-fi.com/ninstar>  
 - <img alt="ICO" src="https://i.imgur.com/372bEWf.png" width="16"> **Patreon** • <https://patreon.com/ninstar>

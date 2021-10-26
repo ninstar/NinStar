@@ -1,6 +1,14 @@
 <p align="center"><img alt="Card" src="https://i.imgur.com/D0k4DCf.png" width="35%"></p>
 
-I'm a graphic designer, pixel artist and programmer mainly experienced in game development.  My first language is Portuguese. • ✉ [ninstar@pm.me](mailto:ninstar@pm.me).
+**About Me**
+
+I'm a **graphic designer**, **pixel artist** and **programmer** mainly experienced in game development and UI/UX design.
+
+My work usually involve web design, user interfaces and logos; this reflects most of my content as it is the area I have the most experience, I also have a passion for pixel art, which you can see in game projects, I can also do other kinds of digital arts. ♡
+
+As a programmer I can code in _HTML_, _JavaScript_, _GML_ and _GDScript_. Most of my projects are free and open source.
+
+• ✉ [ninstar@pm.me](mailto:ninstar@pm.me).
 
 **Recommendations**
 - <img alt="ICO" src="https://i.imgur.com/TnFhaFd.png" width="16"> **[UniMaker](https://github.com/ninstar/UniMaker)** - *An easy-to-use level design tool.*

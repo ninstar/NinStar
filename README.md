@@ -1,7 +1,7 @@
 <p align="center"><img alt="Card" src="https://i.imgur.com/D0k4DCf.png" width="25%"></p>
 
-<p align="center">Artist, designer and programmer. • English, Português
-<br>More information - https://ninstar.carrd.co <img alt="ICO" src="https://i.imgur.com/zWSCOPy.png" height="16"></p>
+<p align="center">Artist, designer and programmer. • English & Português.
+<br>Portfolio - https://ninstar.carrd.co <img alt="ICO" src="https://i.imgur.com/zWSCOPy.png" height="16"></p>
 
 **Highlights**
 - <img alt="ICO" src="https://i.imgur.com/TnFhaFd.png" width="16"> **[UniMaker](https://github.com/ninstar/UniMaker)** - *An easy-to-use level design tool.*

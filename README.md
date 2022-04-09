@@ -10,5 +10,5 @@
 - **[Rich Presence U](https://github.com/ninstar/Rich-Presence-U)** \- Display your Nintendo games on Discord.
 - **[yyProjects](https://github.com/ninstar/yyProjects)** \- A collection of extensions, utilities and projects for GMS.
 
-</br></br>
+</br>
 <div align="center"><a href="https://ko-fi.com/ninstar"><img src="https://img.shields.io/static/v1?label=&logo=kofi&labelColor=4b8dda&logoColor=white&message=Support+Me+By+Making+A+Donation&color=1b2f45&style=for-the-badge" alt="Support me by making a donation"/></a></div>

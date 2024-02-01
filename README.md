@@ -1,4 +1,4 @@
-<p align="center"><img alt="Card" src="https://i.imgur.com/Fgb6ZB8.png" width="25%"></p>
+<p align="center"><img alt="NinStar" src="./brand.svg" width="25%"></p>
 <p align="center">Artist, designer and programmer. • <b>English & Português</b>.</p>
 <p align="center"><b>Portfolio</b> ➜ <a href="https://ninstar.carrd.co/">ninstar.carrd.co</a></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ninstar&theme=github_dark&show_icons=true%29]%28https://github.com/anuraghazra/github-readme-stats" /></p>
